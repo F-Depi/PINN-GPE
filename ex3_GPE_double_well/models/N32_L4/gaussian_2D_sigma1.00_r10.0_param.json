@@ -1,0 +1,19 @@
+{
+    "loss": 4.696414990235098e-08,
+    "epoch": 105,
+    "neurons_per_layer": 32,
+    "layers": 4,
+    "optimizer": "lbfgs",
+    "learning_rate": 0.001,
+    "lbfgs_lr": 1.0,
+    "lbfgs_max_iter": 20,
+    "lbfgs_history_size": 100,
+    "adam_epochs": 50000,
+    "max_epochs": 100000,
+    "min_loss": 1e-10,
+    "comment": "",
+    "save_every": 100,
+    "print_every": 100,
+    "r": 10.0,
+    "N_points": 100000
+}

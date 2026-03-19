@@ -1,0 +1,41 @@
+Na = 10
+NpL=1, layers=1, loss=1.00e+00, L2 error: 4.06e-01
+NpL=2, layers=1, loss=1.71e-04, L2 error: 1.08e-03
+NpL=3, layers=1, loss=1.89e-05, L2 error: 3.23e-04
+
+NpL=4, layers=1, loss=9.46e-07, L2 error: 9.55e-05
+NpL=4, layers=2, loss=1.49e-06, L2 error: 1.28e-04
+NpL=4, layers=3, loss=4.58e-06, L2 error: 1.65e-04
+NpL=4, layers=4, loss=1.28e-06, L2 error: 8.69e-05
+NpL=8, layers=1, loss=2.10e-06, L2 error: 9.97e-05
+NpL=8, layers=2, loss=6.05e-06, L2 error: 1.85e-04
+NpL=8, layers=3, loss=1.56e-07, L2 error: 3.80e-05
+NpL=8, layers=4, loss=1.11e-06, L2 error: 6.34e-05
+NpL=16, layers=1, loss=5.05e-07, L2 error: 5.10e-05
+NpL=16, layers=2, loss=4.41e-06, L2 error: 1.24e-04
+NpL=16, layers=3, loss=1.46e-06, L2 error: 5.63e-05
+NpL=16, layers=4, loss=1.22e-05, L2 error: 2.58e-04
+NpL=32, layers=1, loss=4.14e-07, L2 error: 6.68e-05
+NpL=32, layers=2, loss=1.17e-06, L2 error: 5.31e-05
+NpL=32, layers=3, loss=1.18e-06, L2 error: 6.89e-05
+NpL=32, layers=4, loss=4.35e-06, L2 error: 1.63e-04
+
+
+Na = 0
+NpL = 4, layers = 1, loss = 2.28e-06, L2 error = 7.95e-05
+NpL = 4, layers = 2, loss = 3.40e-06, L2 error = 1.18e-04
+NpL = 4, layers = 3, loss = 4.73e-06, L2 error = 1.71e-04
+NpL = 4, layers = 4, loss = 2.49e-06, L2 error = 1.30e-04
+NpL = 8, layers = 1, loss = 5.98e-06, L2 error = 1.87e-04
+NpL = 8, layers = 2, loss = 2.76e-06, L2 error = 1.12e-04
+NpL = 8, layers = 3, loss = 3.14e-07, L2 error = 4.81e-05
+NpL = 8, layers = 4, loss = 3.06e-06, L2 error = 1.26e-04
+NpL = 16, layers = 1, loss = 5.84e-06, L2 error = 1.89e-04
+NpL = 16, layers = 2, loss = 8.90e-07, L2 error = 6.23e-05
+NpL = 16, layers = 3, loss = 1.78e-06, L2 error = 1.04e-04
+NpL = 16, layers = 4, loss = 2.69e-06, L2 error = 8.75e-05
+NpL = 32, layers = 1, loss = 1.79e-06, L2 error = 5.64e-05
+NpL = 32, layers = 2, loss = 7.16e-07, L2 error = 4.68e-05
+NpL = 32, layers = 3, loss = 1.04e-06, L2 error = 7.62e-05
+NpL = 32, layers = 4, loss = 2.65e-06, L2 error = 1.21e-04
+
