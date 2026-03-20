@@ -37,9 +37,6 @@ in reproducing a result from the _Raissi, M., P. Perdikaris, and G.E. Karniadaki
 - `report/` 
   latex source and compiled PDF of the final report summarizing the work, results, and conclusions.
 
-- `comments.txt`  
-  Development notes (hyperparameters, convergence observations, GPU/ROCm notes, etc.).
-
 ---
 
 ## Requirements
@@ -107,4 +104,4 @@ These are typically stored in `models/` subfolders created by the scripts.
 
 ## Results / Reports
 
-The final report is available here: [report/report.pdf](report/report.pdf). 
+The final report is available here: [report/main.pdf](report/main.pdf). 
