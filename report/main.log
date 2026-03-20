@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.12)  20 MAR 2026 01:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.12)  20 MAR 2026 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1354,11 +1354,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 6.
+(./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
 (./frontespizio.tex
-<Figures/logo_unitn.jpeg, id=7, 496.85625pt x 477.785pt>
+<Figures/logo_unitn.jpeg, id=43, 496.85625pt x 477.785pt>
 File: Figures/logo_unitn.jpeg Graphic file (type jpg)
 <use Figures/logo_unitn.jpeg>
 Package pdftex.def Info: Figures/logo_unitn.jpeg  used on input line 27.
@@ -1367,76 +1368,43 @@ Package pdftex.def Info: Figures/logo_unitn.jpeg  used on input line 27.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Figures/logo_unitn.jpeg>
 ])
-
-Package hyperref Warning: Suppressing link with empty target on input line 62.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.113 
        [1]
-
-Package hyperref Warning: Suppressing link with empty target on input line 114.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 114.
-
-
-<Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png, id=46, 1084.05pt x 361.35pt>
+<Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png, id=84, 1084.05pt x 361.35pt>
 File: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png Graphic file (type png)
 <use Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png>
 Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png  used on in
 put line 131.
 (pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-<Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png, id=47, 1084.05pt x 361.35pt>
+<Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png, id=85, 1084.05pt x 361.35pt>
 File: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png Graphic file (type png)
 <use Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png>
 Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png  used on i
 nput line 144.
 (pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 158.
-
-
 [2 <./Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png> <./Figures/ex1_N4L1_PINN_Na10
-.0_x0.00-6.00.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 164.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 254.
-
-
-[3]
-<Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png, id=68, 1084.05pt x 361.35pt>
+.0_x0.00-6.00.png>] [3]
+<Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png, id=109, 1084.05pt x 361.35pt>
 File: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png Graphic file (type png)
 <use Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png>
 Package pdftex.def Info: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png  used on 
 input line 258.
 (pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 317.
-
-
 [4 <./Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png>]
-<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png, id=79, 
-722.7pt x 433.62pt>
+<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png, id=120,
+ 722.7pt x 433.62pt>
 File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png Gra
 phic file (type png)
 <use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png>
 Package pdftex.def Info: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lb
 fgs_heatmap.png  used on input line 322.
 (pdftex.def)             Requested size: 437.06839pt x 262.23836pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 340.
-
-
-<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png, id=82, 86
-7.24pt x 361.35pt>
+<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png, id=124, 8
+67.24pt x 361.35pt>
 File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png Graph
 ic file (type png)
 <use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png>
@@ -1447,70 +1415,30 @@ fgs_slice.png  used on input line 346.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 384.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 385.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 386.
-
-
-<Figures/ex3_1D_N4L2_g1_dw1.png, id=90, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N4L2_g1_dw1.png, id=134, 462.528pt x 346.896pt>
 File: Figures/ex3_1D_N4L2_g1_dw1.png Graphic file (type png)
 <use Figures/ex3_1D_N4L2_g1_dw1.png>
 Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw1.png  used on input line 391
 .
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 393.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 393.
-
-
-<Figures/ex3_1D_N4L2_g1_dw2.png, id=91, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N4L2_g1_dw2.png, id=137, 462.528pt x 346.896pt>
 File: Figures/ex3_1D_N4L2_g1_dw2.png Graphic file (type png)
 <use Figures/ex3_1D_N4L2_g1_dw2.png>
 Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw2.png  used on input line 399
 .
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 401.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 401.
-
-
-
 Overfull \hbox (8.8127pt too wide) in paragraph at lines 389--404
 []$[]$   $[]$ 
  []
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 427.
-
-
-<Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png, id=93, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png, id=142, 462.528pt x 346.896pt>
 File: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png Graphic file (type png)
 <use Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png>
 Package pdftex.def Info: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png  used on inpu
 t line 432.
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 436.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 436.
-
-
-<Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png, id=94, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png, id=145, 462.528pt x 346.896pt>
 File: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png Graphic file (type png)
 <use Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png>
 Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png  used on i
@@ -1524,31 +1452,15 @@ Overfull \hbox (8.8127pt too wide) in paragraph at lines 430--449
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 454.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 462.
-
-
 [6 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png> <./F
 igures/ex3_1D_N4L2_g1_dw1.png> <./Figures/ex3_1D_N4L2_g1_dw2.png>]
-<Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png, id=106, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png, id=159, 462.528pt x 346.896pt>
 File: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png Graphic file (type png)
 <use Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png>
 Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png  used on in
 put line 469.
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 472.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 472.
-
-
-<Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png, id=107, 462.528pt x 346.896pt>
+<Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png, id=162, 462.528pt x 346.896pt>
 
 File: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png Graphic file (type png)
 <use Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png>
@@ -1556,99 +1468,39 @@ Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png  used o
 n input line 478.
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 482.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 482.
-
-
-
 Overfull \hbox (8.8127pt too wide) in paragraph at lines 467--485
 []$[]$   $[]$ 
  []
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 494.
-
-
 [7 <./Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png> <./Figures/ex3_1D_N16L2_pos_g10
 0_dw2_gauss.png> <./Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png> <./Figures/ex3_
 1D_N16L2_pos_g1_dw1_as6_high_g.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 505.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 530.
-
-
-<Figures/ex3_2D_N32L3_g1_harmonic.png, id=118, 867.24pt x 361.35pt>
+<Figures/ex3_2D_N32L3_g1_harmonic.png, id=178, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1_harmonic.png Graphic file (type png)
 <use Figures/ex3_2D_N32L3_g1_harmonic.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_harmonic.png  used on input li
 ne 533.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 544.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 555.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 556.
-
-
-<Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png, id=119, 867.24pt x 361.35pt>
+<Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png, id=182, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png Graphic file (type png)
 <use Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png  used on in
 put line 563.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 566.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 566.
-
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png, id=120, 867.24pt x 361.35pt>
+<Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png, id=185, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png Graphic file (type png)
 <use Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png  used on in
 put line 572.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 576.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 576.
-
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8 <./Figures/ex3_2D_N32L3_g1_harmonic.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 602.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 605.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 606.
-
-
-<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png, id=131, 867.24pt x 36
+<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png, id=202, 867.24pt x 36
 1.35pt>
 File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png Graphic file (typ
 e png)
@@ -1657,17 +1509,9 @@ Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.pn
 g  used on input line 620.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 629.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 629.
-
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png, id=132, 867.24pt x 361.
+<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png, id=205, 867.24pt x 361.
 35pt>
 File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png Graphic file (type 
 png)
@@ -1676,33 +1520,12 @@ Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png
  used on input line 636.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 645.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 645.
-
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 649.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 653.
-
-
 [9 <./Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png> <./Figures/ex3_2D_N32L3_g1_dw
-2_as6_high_g.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 665.
-
-
-[10 <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png> <./Figures/ex3_
-2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png>]
-<Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png, id=149, 867.2
+2_as6_high_g.png>] [10 <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.p
+ng> <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png>]
+<Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png, id=224, 867.2
 4pt x 722.7pt>
 File: Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png Graphic f
 ile (type png)
@@ -1710,36 +1533,8 @@ ile (type png)
 Package pdftex.def Info: Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1
 _full.png  used on input line 674.
 (pdftex.def)             Requested size: 437.06839pt x 364.22728pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 697.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 702.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 719.
-
-
 [11 <./Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 729.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 750.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 754.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 760.
-
-
-<Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png, id=160, 867.24pt x
+<Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png, id=241, 867.24pt x
  361.35pt>
 File: Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png Graphic file (
 type png)
@@ -1747,7 +1542,7 @@ type png)
 Package pdftex.def Info: Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3
 .png  used on input line 763.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-<Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png, id=161, 867.
+<Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png, id=242, 867.
 24pt x 722.7pt>
 File: Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png Graphic 
 file (type png)
@@ -1761,50 +1556,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [12 <./Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png>] [13 <./Figu
 res/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png>] [14]
 
-Package hyperref Warning: Suppressing link with empty target on input line 831.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 874.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 881.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 881.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 883.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 883.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 884.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 892.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 895.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 896.
-
-
-
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 910.
 
-<Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png, id=185, 1011.78
+<Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png, id=275, 1011.78
 pt x 433.62pt>
 File: Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png Graphic fil
 e (type png)
@@ -1816,7 +1571,7 @@ gen.png  used on input line 912.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 918.
 
-<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png, id=186, 1011.78pt x 
+<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png, id=276, 1011.78pt x 
 433.62pt>
 File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png Graphic file (ty
 pe png)
@@ -1825,18 +1580,10 @@ Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.p
 ng  used on input line 920.
 (pdftex.def)             Requested size: 437.06839pt x 187.31972pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 922.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 922.
-
-
-
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 925.
 
-<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png, id=187, 1011.78p
+<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png, id=279, 1011.78p
 t x 433.62pt>
 File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png Graphic file
  (type png)
@@ -1844,59 +1591,19 @@ File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png Graphic file
 Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eig
 en.png  used on input line 927.
 (pdftex.def)             Requested size: 437.06839pt x 187.31972pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 930.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 930.
-
-
-<Figures/ex3.5_1D_dw2_high_g_comparison.png, id=188, 462.528pt x 346.896pt>
+<Figures/ex3.5_1D_dw2_high_g_comparison.png, id=282, 462.528pt x 346.896pt>
 File: Figures/ex3.5_1D_dw2_high_g_comparison.png Graphic file (type png)
 <use Figures/ex3.5_1D_dw2_high_g_comparison.png>
 Package pdftex.def Info: Figures/ex3.5_1D_dw2_high_g_comparison.png  used on in
 put line 938.
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 942.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 942.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 942.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 942.
-
-
-<Figures/ex3.5_1D_dw1_as6_high_g_comparison.png, id=189, 462.528pt x 346.896pt>
+<Figures/ex3.5_1D_dw1_as6_high_g_comparison.png, id=287, 462.528pt x 346.896pt>
 
 File: Figures/ex3.5_1D_dw1_as6_high_g_comparison.png Graphic file (type png)
 <use Figures/ex3.5_1D_dw1_as6_high_g_comparison.png>
 Package pdftex.def Info: Figures/ex3.5_1D_dw1_as6_high_g_comparison.png  used o
 n input line 948.
 (pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 952.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 952.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 952.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 952.
-
-
 
 Overfull \hbox (8.8127pt too wide) in paragraph at lines 936--955
 []$[]$   $[]$ 
@@ -1905,12 +1612,8 @@ Overfull \hbox (8.8127pt too wide) in paragraph at lines 936--955
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 960.
-
-
-<Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png, id=1
-90, 1084.05pt x 578.16pt>
+<Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png, id=2
+93, 1084.05pt x 578.16pt>
 File: Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png 
 Graphic file (type png)
 <use Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png>
@@ -1925,43 +1628,7 @@ igures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png> <./Figures/ex3.5_N16L3
 _PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png>] [17 <./Figures/ex3.5_1D_dw2_high_g_
 comparison.png> <./Figures/ex3.5_1D_dw1_as6_high_g_comparison.png> <./Figures/e
 x3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 983.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 987.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 988.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1002
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1012
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1016
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1024
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1028
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1031
-.
-
-<Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png, id=218, 867.2
+<Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png, id=330, 867.2
 4pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png Graphic f
 ile (type png)
@@ -1969,15 +1636,7 @@ ile (type png)
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_ome
 ga0.1.png  used on input line 1037.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-
-Package hyperref Warning: Suppressing link with empty target on input line 1042
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1042
-.
-
-<Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png, id=219, 867.
+<Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png, id=333, 867.
 24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png Graphic 
 file (type png)
@@ -1985,7 +1644,7 @@ file (type png)
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_om
 ega0.1.png  used on input line 1051.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
-<Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png, id=221, 867.2
+<Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png, id=335, 867.2
 4pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png Graphic f
 ile (type png)
@@ -1996,8 +1655,8 @@ ga0.1.png  used on input line 1056.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png, id=2
-23, 867.24pt x 361.35pt>
+<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png, id=3
+37, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png 
 Graphic file (type png)
 <use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png>
@@ -2005,7 +1664,7 @@ Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0
 .1_more_points.png  used on input line 1071.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
 <Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.png,
- id=225, 867.24pt x 361.35pt>
+ id=339, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom
 .png Graphic file (type png)
 <use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.
@@ -2018,29 +1677,20 @@ Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0
 x3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png> <./Figures/ex3_2D_N32L3
 _g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png> <./Figures/ex3_2D_N32L3_g
 1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.png>] (./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  79E156D7002C1C20819D5BA6A408AAB7;1760.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A1F1F02844715BC59EE0EF7C9ECE64B2;1797.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42741 strings out of 476034
- 892382 string characters out of 5792864
- 1879388 words of memory out of 6000000
- 62470 multiletter control sequences out of 15000+600000
+ 42755 strings out of 476034
+ 892536 string characters out of 5792864
+ 1880388 words of memory out of 6000000
+ 62480 multiletter control sequences out of 15000+600000
  522086 words of font info for 69 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 89i,19n,120p,1127b,1772s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,19n,120p,1127b,1770s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -2065,10 +1715,10 @@ s/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (20 pages, 9003103 bytes).
+Output written on main.pdf (20 pages, 9006325 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
+ 494 PDF objects out of 1000 (max. 8388607)
+ 365 compressed objects within 4 object streams
  99 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
