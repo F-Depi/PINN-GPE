@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.12)  20 MAR 2026 00:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.12)  20 MAR 2026 01:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1136,6 +1136,94 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@cntb=\count499
 \multirow@dima=\skip83
 \bigstrutjot=\dimen455
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count500
+)
+\@linkdim=\dimen456
+\Hy@linkcounter=\count501
+\Hy@pagecounter=\count502
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count503
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count504
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen457
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count505
+\Field@Width=\dimen458
+\Fld@charsize=\dimen459
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+\Hy@abspage=\count506
+\c@Item=\count507
+\c@Hfootnote=\count508
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count509
+\c@bookmark@seq@number=\count510
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip84
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1157,6 +1245,10 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1194,16 +1286,16 @@ LaTeX Font Info:    ... okay on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count500
-\scratchdimen=\dimen456
+\scratchcounter=\count511
+\scratchdimen=\dimen460
 \scratchbox=\box90
-\nofMPsegments=\count501
-\nofMParguments=\count502
+\nofMPsegments=\count512
+\nofMParguments=\count513
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count503
-\MPscratchDim=\dimen457
-\MPnumerator=\count504
-\makeMPintoPDFobject=\count505
+\MPscratchCnt=\count514
+\MPscratchDim=\dimen461
+\MPnumerator=\count515
+\makeMPintoPDFobject=\count516
 \everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1213,7 +1305,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count506
+\c@lstlisting=\count517
 
 Package siunitx Warning: Detected the "physics" package:
 (siunitx)                omitting definition of \qty.
@@ -1256,13 +1348,17 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\Hy@linkcounter=\count507
 LaTeX Info: Redefining \[ on input line 6.
 LaTeX Info: Redefining \] on input line 6.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 6.
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
 (./frontespizio.tex
-<Figures/logo_unitn.jpeg, id=4, 496.85625pt x 477.785pt>
+<Figures/logo_unitn.jpeg, id=7, 496.85625pt x 477.785pt>
 File: Figures/logo_unitn.jpeg Graphic file (type jpg)
 <use Figures/logo_unitn.jpeg>
 Package pdftex.def Info: Figures/logo_unitn.jpeg  used on input line 27.
@@ -1270,736 +1366,681 @@ Package pdftex.def Info: Figures/logo_unitn.jpeg  used on input line 27.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Figures/logo_unitn.jpeg>
-]) [1]
-Package epstopdf Info: Source file: <Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.eps
->
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 46969 bytes
-(epstopdf)             Output file: <Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps
--converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 20046 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex1_N4L1_PINN_Na1.
-0_x0.00-6.00-eps-converted-to.pdf Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.eps>
-(epstopdf)             \includegraphics on input line 129.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps-converted-to.pdf, id=30, 1084.05pt 
-x 361.35pt>
-File: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps-converted-to.pdf Graphic file 
-(type pdf)
-<use Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps-converted-t
-o.pdf  used on input line 129.
-(pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-Package epstopdf Info: Source file: <Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.ep
-s>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 54897 bytes
-(epstopdf)             Output file: <Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00-ep
-s-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 20596 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex1_N4L1_PINN_Na10
-.0_x0.00-6.00-eps-converted-to.pdf Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.eps>
+])
 
-(epstopdf)             \includegraphics on input line 142.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00-eps-converted-to.pdf, id=31, 1084.05pt
- x 361.35pt>
-File: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00-eps-converted-to.pdf Graphic file
- (type pdf)
-<use Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00-eps-converted-
-to.pdf  used on input line 142.
+Package hyperref Warning: Suppressing link with empty target on input line 62.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 
+       [1]
+
+Package hyperref Warning: Suppressing link with empty target on input line 114.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 114.
+
+
+<Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png, id=46, 1084.05pt x 361.35pt>
+File: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png Graphic file (type png)
+<use Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png>
+Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png  used on in
+put line 131.
 (pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-[2 <./Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00-eps-converted-to.pdf> <./Figures/e
-x1_N4L1_PINN_Na10.0_x0.00-6.00-eps-converted-to.pdf>] [3]
-Package epstopdf Info: Source file: <Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.e
-ps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 52965 bytes
-(epstopdf)             Output file: <Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-e
-ps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 21025 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex1_N8L2_PINN_Na10
-0.0_x0.00-8.00-eps-converted-to.pdf Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.ep
-s>
-(epstopdf)             \includegraphics on input line 256.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-eps-converted-to.pdf, id=148, 1084.05
-pt x 361.35pt>
-File: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-eps-converted-to.pdf Graphic fil
-e (type pdf)
-<use Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-eps-converted
--to.pdf  used on input line 256.
+<Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png, id=47, 1084.05pt x 361.35pt>
+File: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png Graphic file (type png)
+<use Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png>
+Package pdftex.def Info: Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png  used on i
+nput line 144.
 (pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
-[4 <./Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-
-5.00-5.00_lbfgs_heatmap.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 1821288 bytes
-(epstopdf)             Output file: <Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-
-5.00-5.00_lbfgs_heatmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 45192 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex2_N32L3_PINN_E19
-00_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap-eps-converted-to.pdf Figures/ex2_N32L3_
-PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.eps>
-(epstopdf)             \includegraphics on input line 320.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap-eps-converte
-d-to.pdf, id=205, 722.7pt x 433.62pt>
-File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap-eps-con
-verted-to.pdf Graphic file (type pdf)
-<use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap-eps-conv
-erted-to.pdf>
+
+Package hyperref Warning: Suppressing link with empty target on input line 158.
+
+
+[2 <./Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png> <./Figures/ex1_N4L1_PINN_Na10
+.0_x0.00-6.00.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 164.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 254.
+
+
+[3]
+<Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png, id=68, 1084.05pt x 361.35pt>
+File: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png Graphic file (type png)
+<use Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png>
+Package pdftex.def Info: Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png  used on 
+input line 258.
+(pdftex.def)             Requested size: 437.06839pt x 145.6898pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 317.
+
+
+[4 <./Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png>]
+<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png, id=79, 
+722.7pt x 433.62pt>
+File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png Gra
+phic file (type png)
+<use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png>
 Package pdftex.def Info: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lb
-fgs_heatmap-eps-converted-to.pdf  used on input line 320.
+fgs_heatmap.png  used on input line 322.
 (pdftex.def)             Requested size: 437.06839pt x 262.23836pt.
-Package epstopdf Info: Source file: <Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-
-5.00-5.00_lbfgs_slice.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 43314 bytes
-(epstopdf)             Output file: <Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-
-5.00-5.00_lbfgs_slice-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 17598 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex2_N32L3_PINN_E19
-00_t0.00-1.57_x-5.00-5.00_lbfgs_slice-eps-converted-to.pdf Figures/ex2_N32L3_PI
-NN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.eps>
-(epstopdf)             \includegraphics on input line 344.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice-eps-converted-
-to.pdf, id=206, 867.24pt x 361.35pt>
-File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice-eps-conve
-rted-to.pdf Graphic file (type pdf)
-<use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice-eps-conver
-ted-to.pdf>
+
+Package hyperref Warning: Suppressing link with empty target on input line 340.
+
+
+<Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png, id=82, 86
+7.24pt x 361.35pt>
+File: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png Graph
+ic file (type png)
+<use Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png>
 Package pdftex.def Info: Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lb
-fgs_slice-eps-converted-to.pdf  used on input line 344.
+fgs_slice.png  used on input line 346.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap-eps-con
-verted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_1D_N4L2_g1_dw1.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 44489 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N4L2_g1_dw1-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 78119 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N4L2_g1_dw1
--eps-converted-to.pdf Figures/ex3_1D_N4L2_g1_dw1.eps>
-(epstopdf)             \includegraphics on input line 389.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N4L2_g1_dw1-eps-converted-to.pdf, id=253, 462.72874pt x 347.297
-5pt>
-File: Figures/ex3_1D_N4L2_g1_dw1-eps-converted-to.pdf Graphic file (type pdf)
-<use Figures/ex3_1D_N4L2_g1_dw1-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw1-eps-converted-to.pdf  used 
-on input line 389.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
-Package epstopdf Info: Source file: <Figures/ex3_1D_N4L2_g1_dw2.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 52028 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N4L2_g1_dw2-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 84863 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N4L2_g1_dw2
--eps-converted-to.pdf Figures/ex3_1D_N4L2_g1_dw2.eps>
-(epstopdf)             \includegraphics on input line 397.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N4L2_g1_dw2-eps-converted-to.pdf, id=254, 462.72874pt x 347.297
-5pt>
-File: Figures/ex3_1D_N4L2_g1_dw2-eps-converted-to.pdf Graphic file (type pdf)
-<use Figures/ex3_1D_N4L2_g1_dw2-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw2-eps-converted-to.pdf  used 
-on input line 397.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
+[5 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png>]
 
-Overfull \hbox (8.8127pt too wide) in paragraph at lines 387--402
+Package hyperref Warning: Suppressing link with empty target on input line 384.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 385.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 386.
+
+
+<Figures/ex3_1D_N4L2_g1_dw1.png, id=90, 462.528pt x 346.896pt>
+File: Figures/ex3_1D_N4L2_g1_dw1.png Graphic file (type png)
+<use Figures/ex3_1D_N4L2_g1_dw1.png>
+Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw1.png  used on input line 391
+.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 393.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 393.
+
+
+<Figures/ex3_1D_N4L2_g1_dw2.png, id=91, 462.528pt x 346.896pt>
+File: Figures/ex3_1D_N4L2_g1_dw2.png Graphic file (type png)
+<use Figures/ex3_1D_N4L2_g1_dw2.png>
+Package pdftex.def Info: Figures/ex3_1D_N4L2_g1_dw2.png  used on input line 399
+.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 401.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 401.
+
+
+
+Overfull \hbox (8.8127pt too wide) in paragraph at lines 389--404
 []$[]$   $[]$ 
  []
 
-Package epstopdf Info: Source file: <Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 38784 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 49962 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N4L2_pos_g1
-_dw2_gauss-eps-converted-to.pdf Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.eps>
-(epstopdf)             \includegraphics on input line 430.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-converted-to.pdf, id=255, 462.72874pt
- x 347.2975pt>
-File: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-converted-to.pdf Graphic file (t
-ype pdf)
-<use Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-converted-to.
-pdf  used on input line 430.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
-Package epstopdf Info: Source file: <Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.ep
-s>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 50747 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N16L2_pos_g100_dw2_gauss-ep
-s-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 10:56:58
-(epstopdf)                    size: 85309 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N16L2_pos_g
-100_dw2_gauss-eps-converted-to.pdf Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.eps>
 
-(epstopdf)             \includegraphics on input line 440.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N16L2_pos_g100_dw2_gauss-eps-converted-to.pdf, id=256, 462.7287
-4pt x 347.2975pt>
-File: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss-eps-converted-to.pdf Graphic file
- (type pdf)
-<use Figures/ex3_1D_N16L2_pos_g100_dw2_gauss-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss-eps-converted-
-to.pdf  used on input line 440.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
+Package hyperref Warning: Suppressing link with empty target on input line 427.
 
-Overfull \hbox (8.8127pt too wide) in paragraph at lines 428--447
+
+<Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png, id=93, 462.528pt x 346.896pt>
+File: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png Graphic file (type png)
+<use Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png>
+Package pdftex.def Info: Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png  used on inpu
+t line 432.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 436.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 436.
+
+
+<Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png, id=94, 462.528pt x 346.896pt>
+File: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png Graphic file (type png)
+<use Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png>
+Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png  used on i
+nput line 442.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Overfull \hbox (8.8127pt too wide) in paragraph at lines 430--449
 []$[]$   $[]$ 
  []
 
-[6 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice-eps-conve
-rted-to.pdf> <./Figures/ex3_1D_N4L2_g1_dw1-eps-converted-to.pdf> <./Figures/ex3
-_1D_N4L2_g1_dw2-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.eps
->
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 52810 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N16L2_pos_g1_dw2_high_g-eps
--converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 85739 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N16L2_pos_g
-1_dw2_high_g-eps-converted-to.pdf Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.eps>
-(epstopdf)             \includegraphics on input line 467.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N16L2_pos_g1_dw2_high_g-eps-converted-to.pdf, id=375, 462.72874
-pt x 347.2975pt>
-File: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g-eps-converted-to.pdf Graphic file 
-(type pdf)
-<use Figures/ex3_1D_N16L2_pos_g1_dw2_high_g-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g-eps-converted-t
-o.pdf  used on input line 467.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
-Package epstopdf Info: Source file: <Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g
-.eps>
-(epstopdf)                    date: 2026-03-15 00:30:13
-(epstopdf)                    size: 59986 bytes
-(epstopdf)             Output file: <Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g
--eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 10:58:18
-(epstopdf)                    size: 139989 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_1D_N16L2_pos_g
-1_dw1_as6_high_g-eps-converted-to.pdf Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_
-g.eps>
-(epstopdf)             \includegraphics on input line 476.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g-eps-converted-to.pdf, id=376, 462.7
-2874pt x 347.2975pt>
-File: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g-eps-converted-to.pdf Graphic f
-ile (type pdf)
-<use Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g-eps-convert
-ed-to.pdf  used on input line 476.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
 
-Overfull \hbox (8.8127pt too wide) in paragraph at lines 465--483
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 454.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 462.
+
+
+[6 <./Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png> <./F
+igures/ex3_1D_N4L2_g1_dw1.png> <./Figures/ex3_1D_N4L2_g1_dw2.png>]
+<Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png, id=106, 462.528pt x 346.896pt>
+File: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png Graphic file (type png)
+<use Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png>
+Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png  used on in
+put line 469.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 472.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 472.
+
+
+<Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png, id=107, 462.528pt x 346.896pt>
+
+File: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png Graphic file (type png)
+<use Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png>
+Package pdftex.def Info: Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png  used o
+n input line 478.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 482.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 482.
+
+
+
+Overfull \hbox (8.8127pt too wide) in paragraph at lines 467--485
 []$[]$   $[]$ 
  []
 
-[7 <./Figures/ex3_1D_N4L2_pos_g1_dw2_gauss-eps-converted-to.pdf> <./Figures/ex3
-_1D_N16L2_pos_g100_dw2_gauss-eps-converted-to.pdf> <./Figures/ex3_1D_N16L2_pos_
-g1_dw2_high_g-eps-converted-to.pdf> <./Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high
-_g-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_harmonic.eps>
-(epstopdf)                    date: 2026-03-16 00:31:39
-(epstopdf)                    size: 3351372 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_harmonic-eps-conve
-rted-to.pdf>
-(epstopdf)                    date: 2026-03-16 00:32:21
-(epstopdf)                    size: 2834357 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_ha
-rmonic-eps-converted-to.pdf Figures/ex3_2D_N32L3_g1_harmonic.eps>
-(epstopdf)             \includegraphics on input line 531.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_harmonic-eps-converted-to.pdf, id=525, 867.24pt x 361.
+
+Package hyperref Warning: Suppressing link with empty target on input line 494.
+
+
+[7 <./Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png> <./Figures/ex3_1D_N16L2_pos_g10
+0_dw2_gauss.png> <./Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png> <./Figures/ex3_
+1D_N16L2_pos_g1_dw1_as6_high_g.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 505.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 530.
+
+
+<Figures/ex3_2D_N32L3_g1_harmonic.png, id=118, 867.24pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g1_harmonic.png Graphic file (type png)
+<use Figures/ex3_2D_N32L3_g1_harmonic.png>
+Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_harmonic.png  used on input li
+ne 533.
+(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 544.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 555.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 556.
+
+
+<Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png, id=119, 867.24pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png Graphic file (type png)
+<use Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png>
+Package pdftex.def Info: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png  used on in
+put line 563.
+(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 566.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 566.
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png, id=120, 867.24pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png Graphic file (type png)
+<use Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png>
+Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png  used on in
+put line 572.
+(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 576.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 576.
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./Figures/ex3_2D_N32L3_g1_harmonic.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 602.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 605.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 606.
+
+
+<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png, id=131, 867.24pt x 36
+1.35pt>
+File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png Graphic file (typ
+e png)
+<use Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png>
+Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.pn
+g  used on input line 620.
+(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 629.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 629.
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png, id=132, 867.24pt x 361.
 35pt>
-File: Figures/ex3_2D_N32L3_g1_harmonic-eps-converted-to.pdf Graphic file (type 
-pdf)
-<use Figures/ex3_2D_N32L3_g1_harmonic-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_harmonic-eps-converted-to.pdf 
- used on input line 531.
+File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png Graphic file (type 
+png)
+<use Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png>
+Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png 
+ used on input line 636.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.eps
->
-(epstopdf)                    date: 2026-03-16 00:31:40
-(epstopdf)                    size: 3355430 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps
--converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 00:31:45
-(epstopdf)                    size: 2865365 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g40_d
-w2_as6_gauss-eps-converted-to.pdf Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.eps>
-(epstopdf)             \includegraphics on input line 561.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps-converted-to.pdf, id=526, 867.24pt 
-x 361.35pt>
-File: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps-converted-to.pdf Graphic file 
-(type pdf)
-<use Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps-converted-t
-o.pdf  used on input line 561.
-(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-[8 <./Figures/ex3_2D_N32L3_g1_harmonic-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.eps
->
-(epstopdf)                    date: 2026-03-16 00:31:41
-(epstopdf)                    size: 3355640 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_dw2_as6_high_g-eps
--converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 00:31:46
-(epstopdf)                    size: 2844517 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_dw
-2_as6_high_g-eps-converted-to.pdf Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.eps>
-(epstopdf)             \includegraphics on input line 570.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_dw2_as6_high_g-eps-converted-to.pdf, id=585, 867.24pt 
-x 361.35pt>
-File: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g-eps-converted-to.pdf Graphic file 
-(type pdf)
-<use Figures/ex3_2D_N32L3_g1_dw2_as6_high_g-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_dw2_as6_high_g-eps-converted-t
-o.pdf  used on input line 570.
-(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-[9 <./Figures/ex3_2D_N32L3_g40_dw2_as6_gauss-eps-converted-to.pdf> <./Figures/e
-x3_2D_N32L3_g1_dw2_as6_high_g-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_
-n5_high_g.eps>
-(epstopdf)                    date: 2026-03-18 12:57:16
-(epstopdf)                    size: 5917539 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_
-n5_high_g-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-18 13:02:13
-(epstopdf)                    size: 5722689 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_cr
-azy_a2.0_eps0.4_n5_high_g-eps-converted-to.pdf Figures/ex3_2D_N32L3_g1_crazy_a2
-.0_eps0.4_n5_high_g.eps>
-(epstopdf)             \includegraphics on input line 618.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g-eps-converted-to.pdf, id=6
-98, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g-eps-converted-to.pdf 
-Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g-ep
-s-converted-to.pdf  used on input line 618.
-(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0
-_n5_var.eps>
-(epstopdf)                    date: 2026-03-18 12:57:17
-(epstopdf)                    size: 5909007 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0
-_n5_var-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-18 13:02:16
-(epstopdf)                    size: 5655354 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_cr
-azy_a2.0_eps10.0_n5_var-eps-converted-to.pdf Figures/ex3_2D_N32L3_g1_crazy_a2.0
-_eps10.0_n5_var.eps>
-(epstopdf)             \includegraphics on input line 634.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var-eps-converted-to.pdf, id=699
-, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var-eps-converted-to.pdf Gr
-aphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var-eps-
-converted-to.pdf  used on input line 634.
-(pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 645.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 645.
+
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g-eps-converted-to.pdf
->]
-Package epstopdf Info: Source file: <Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-
-5.00_5.00_l1_full.eps>
-(epstopdf)                    date: 2026-03-16 23:21:32
-(epstopdf)                    size: 3679287 bytes
-(epstopdf)             Output file: <Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-
-5.00_5.00_l1_full-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 23:21:42
-(epstopdf)                    size: 175407 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex4_N32L4_PINN_Na1
-.0_x-5.00_-5.00-5.00_5.00_l1_full-eps-converted-to.pdf Figures/ex4_N32L4_PINN_N
-a1.0_x-5.00_-5.00-5.00_5.00_l1_full.eps>
-(epstopdf)             \includegraphics on input line 672.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full-eps-converted-to.p
-df, id=753, 867.24pt x 722.7pt>
-File: Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full-eps-converted
--to.pdf Graphic file (type pdf)
-<use Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full-eps-converted-
-to.pdf>
+
+Package hyperref Warning: Suppressing link with empty target on input line 649.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 653.
+
+
+[9 <./Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png> <./Figures/ex3_2D_N32L3_g1_dw
+2_as6_high_g.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 665.
+
+
+[10 <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png> <./Figures/ex3_
+2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png>]
+<Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png, id=149, 867.2
+4pt x 722.7pt>
+File: Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png Graphic f
+ile (type png)
+<use Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png>
 Package pdftex.def Info: Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1
-_full-eps-converted-to.pdf  used on input line 672.
+_full.png  used on input line 674.
 (pdftex.def)             Requested size: 437.06839pt x 364.22728pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package hyperref Warning: Suppressing link with empty target on input line 697.
 
-[11 <./Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-
-7.00_7.00_l3.eps>
-(epstopdf)                    date: 2026-03-16 23:21:24
-(epstopdf)                    size: 1856218 bytes
-(epstopdf)             Output file: <Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-
-7.00_7.00_l3-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 23:21:43
-(epstopdf)                    size: 127812 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex4_N32L4_PINN_Na1
-.0_x-7.00_-7.00-7.00_7.00_l3-eps-converted-to.pdf Figures/ex4_N32L4_PINN_Na1.0_
-x-7.00_-7.00-7.00_7.00_l3.eps>
-(epstopdf)             \includegraphics on input line 761.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3-eps-converted-to.pdf, i
-d=804, 867.24pt x 361.35pt>
-File: Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3-eps-converted-to.p
-df Graphic file (type pdf)
-<use Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3-eps-converted-to.pd
-f>
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 702.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 719.
+
+
+[11 <./Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 729.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 750.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 754.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 760.
+
+
+<Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png, id=160, 867.24pt x
+ 361.35pt>
+File: Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png Graphic file (
+type png)
+<use Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png>
 Package pdftex.def Info: Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3
--eps-converted-to.pdf  used on input line 761.
+.png  used on input line 763.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-Package epstopdf Info: Source file: <Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00
--5.00_5.00_l6_full.eps>
-(epstopdf)                    date: 2026-03-16 23:26:36
-(epstopdf)                    size: 3681614 bytes
-(epstopdf)             Output file: <Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00
--5.00_5.00_l6_full-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 23:33:44
-(epstopdf)                    size: 192712 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex4_N32L4_PINN_Na1
-0.0_x-5.00_-5.00-5.00_5.00_l6_full-eps-converted-to.pdf Figures/ex4_N32L4_PINN_
-Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.eps>
-(epstopdf)             \includegraphics on input line 768.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full-eps-converted-to.
-pdf, id=805, 867.24pt x 722.7pt>
-File: Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full-eps-converte
-d-to.pdf Graphic file (type pdf)
-<use Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full-eps-converted
--to.pdf>
+<Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png, id=161, 867.
+24pt x 722.7pt>
+File: Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png Graphic 
+file (type png)
+<use Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png>
 Package pdftex.def Info: Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l
-6_full-eps-converted-to.pdf  used on input line 768.
+6_full.png  used on input line 770.
 (pdftex.def)             Requested size: 437.06839pt x 364.22728pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[12 <./Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png>] [13 <./Figu
+res/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png>] [14]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package hyperref Warning: Suppressing link with empty target on input line 831.
 
-[12 <./Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full-eps-converte
-d-to.pdf>] [13 <./Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3-eps-co
-nverted-to.pdf> <./Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full
--eps-converted-to.pdf>] [14]
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 874.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 881.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 881.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 883.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 883.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 884.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 892.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 895.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 896.
+
+
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 908.
+               Default added (so using `tbp') on input line 910.
 
-Package epstopdf Info: Source file: <Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00
-_harmonic_eigen.eps>
-(epstopdf)                    date: 2026-03-15 17:35:45
-(epstopdf)                    size: 298257 bytes
-(epstopdf)             Output file: <Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00
-_harmonic_eigen-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 17:38:26
-(epstopdf)                    size: 432878 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_N16L3_PINN_N
-a0.0_x-8.00-8.00_harmonic_eigen-eps-converted-to.pdf Figures/ex3.5_N16L3_PINN_N
-a0.0_x-8.00-8.00_harmonic_eigen.eps>
-(epstopdf)             \includegraphics on input line 910.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen-eps-converted-to.pdf
-, id=982, 1011.78pt x 433.62pt>
-File: Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen-eps-converted-t
-o.pdf Graphic file (type pdf)
-<use Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen-eps-converted-to
-.pdf>
+<Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png, id=185, 1011.78
+pt x 433.62pt>
+File: Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png Graphic fil
+e (type png)
+<use Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png>
 Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_ei
-gen-eps-converted-to.pdf  used on input line 910.
+gen.png  used on input line 912.
 (pdftex.def)             Requested size: 437.06839pt x 187.31972pt.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 916.
+               Default added (so using `tbp') on input line 918.
 
-Package epstopdf Info: Source file: <Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50
-_dw2_eigen.eps>
-(epstopdf)                    date: 2026-03-15 01:32:58
-(epstopdf)                    size: 283940 bytes
-(epstopdf)             Output file: <Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50
-_dw2_eigen-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 01:33:02
-(epstopdf)                    size: 396774 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_N16L3_PINN_N
-a1.0_x-3.50-3.50_dw2_eigen-eps-converted-to.pdf Figures/ex3.5_N16L3_PINN_Na1.0_
-x-3.50-3.50_dw2_eigen.eps>
-(epstopdf)             \includegraphics on input line 918.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen-eps-converted-to.pdf, id=
-983, 1011.78pt x 433.62pt>
-File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen-eps-converted-to.pdf
- Graphic file (type pdf)
-<use Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen-eps-converted-to.pdf>
-
-Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen-e
-ps-converted-to.pdf  used on input line 918.
+<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png, id=186, 1011.78pt x 
+433.62pt>
+File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png Graphic file (ty
+pe png)
+<use Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png>
+Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.p
+ng  used on input line 920.
 (pdftex.def)             Requested size: 437.06839pt x 187.31972pt.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 923.
+Package hyperref Warning: Suppressing link with empty target on input line 922.
 
-Package epstopdf Info: Source file: <Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50
-_dw1_as6_eigen.eps>
-(epstopdf)                    date: 2026-03-15 01:32:59
-(epstopdf)                    size: 297663 bytes
-(epstopdf)             Output file: <Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50
-_dw1_as6_eigen-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 01:33:03
-(epstopdf)                    size: 739839 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_N16L3_PINN_N
-a1.0_x-3.50-3.50_dw1_as6_eigen-eps-converted-to.pdf Figures/ex3.5_N16L3_PINN_Na
-1.0_x-3.50-3.50_dw1_as6_eigen.eps>
-(epstopdf)             \includegraphics on input line 925.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen-eps-converted-to.pdf,
- id=984, 1011.78pt x 433.62pt>
-File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen-eps-converted-to
-.pdf Graphic file (type pdf)
-<use Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen-eps-converted-to.
-pdf>
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 922.
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 925.
+
+<Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png, id=187, 1011.78p
+t x 433.62pt>
+File: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png Graphic file
+ (type png)
+<use Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png>
 Package pdftex.def Info: Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eig
-en-eps-converted-to.pdf  used on input line 925.
+en.png  used on input line 927.
 (pdftex.def)             Requested size: 437.06839pt x 187.31972pt.
-Package epstopdf Info: Source file: <Figures/ex3.5_1D_dw2_high_g_comparison.eps
->
-(epstopdf)                    date: 2026-03-15 15:55:10
-(epstopdf)                    size: 38152 bytes
-(epstopdf)             Output file: <Figures/ex3.5_1D_dw2_high_g_comparison-eps
--converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 15:55:18
-(epstopdf)                    size: 21264 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_1D_dw2_high_
-g_comparison-eps-converted-to.pdf Figures/ex3.5_1D_dw2_high_g_comparison.eps>
-(epstopdf)             \includegraphics on input line 936.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_1D_dw2_high_g_comparison-eps-converted-to.pdf, id=985, 462.72874
-pt x 347.2975pt>
-File: Figures/ex3.5_1D_dw2_high_g_comparison-eps-converted-to.pdf Graphic file 
-(type pdf)
-<use Figures/ex3.5_1D_dw2_high_g_comparison-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3.5_1D_dw2_high_g_comparison-eps-converted-t
-o.pdf  used on input line 936.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
-Package epstopdf Info: Source file: <Figures/ex3.5_1D_dw1_as6_high_g_comparison
-.eps>
-(epstopdf)                    date: 2026-03-15 15:55:10
-(epstopdf)                    size: 34432 bytes
-(epstopdf)             Output file: <Figures/ex3.5_1D_dw1_as6_high_g_comparison
--eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-15 15:55:30
-(epstopdf)                    size: 19457 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_1D_dw1_as6_h
-igh_g_comparison-eps-converted-to.pdf Figures/ex3.5_1D_dw1_as6_high_g_compariso
-n.eps>
-(epstopdf)             \includegraphics on input line 946.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_1D_dw1_as6_high_g_comparison-eps-converted-to.pdf, id=986, 462.7
-2874pt x 347.2975pt>
-File: Figures/ex3.5_1D_dw1_as6_high_g_comparison-eps-converted-to.pdf Graphic f
-ile (type pdf)
-<use Figures/ex3.5_1D_dw1_as6_high_g_comparison-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/ex3.5_1D_dw1_as6_high_g_comparison-eps-convert
-ed-to.pdf  used on input line 946.
-(pdftex.def)             Requested size: 209.79095pt x 157.45888pt.
 
-Overfull \hbox (8.8127pt too wide) in paragraph at lines 934--953
+Package hyperref Warning: Suppressing link with empty target on input line 930.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 930.
+
+
+<Figures/ex3.5_1D_dw2_high_g_comparison.png, id=188, 462.528pt x 346.896pt>
+File: Figures/ex3.5_1D_dw2_high_g_comparison.png Graphic file (type png)
+<use Figures/ex3.5_1D_dw2_high_g_comparison.png>
+Package pdftex.def Info: Figures/ex3.5_1D_dw2_high_g_comparison.png  used on in
+put line 938.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 942.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 942.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 942.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 942.
+
+
+<Figures/ex3.5_1D_dw1_as6_high_g_comparison.png, id=189, 462.528pt x 346.896pt>
+
+File: Figures/ex3.5_1D_dw1_as6_high_g_comparison.png Graphic file (type png)
+<use Figures/ex3.5_1D_dw1_as6_high_g_comparison.png>
+Package pdftex.def Info: Figures/ex3.5_1D_dw1_as6_high_g_comparison.png  used o
+n input line 948.
+(pdftex.def)             Requested size: 209.79095pt x 157.34564pt.
+
+Package hyperref Warning: Suppressing link with empty target on input line 952.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 952.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 952.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 952.
+
+
+
+Overfull \hbox (8.8127pt too wide) in paragraph at lines 936--955
 []$[]$   $[]$ 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package epstopdf Info: Source file: <Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.0
-0-5.00_5.00_harmonic_eigen.eps>
-(epstopdf)                    date: 2026-03-16 00:48:38
-(epstopdf)                    size: 5049080 bytes
-(epstopdf)             Output file: <Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.0
-0-5.00_5.00_harmonic_eigen-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-16 00:48:42
-(epstopdf)                    size: 2876031 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3.5_N32L4_PINN_N
-a0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen-eps-converted-to.pdf Figures/ex3.5_N
-32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.eps>
-(epstopdf)             \includegraphics on input line 962.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen-eps-conve
-rted-to.pdf, id=987, 1084.05pt x 578.16pt>
-File: Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen-eps-
-converted-to.pdf Graphic file (type pdf)
-<use Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen-eps-c
-onverted-to.pdf>
+
+Package hyperref Warning: Suppressing link with empty target on input line 960.
+
+
+<Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png, id=1
+90, 1084.05pt x 578.16pt>
+File: Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png 
+Graphic file (type png)
+<use Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png>
 Package pdftex.def Info: Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_
-harmonic_eigen-eps-converted-to.pdf  used on input line 962.
+harmonic_eigen.png  used on input line 964.
 (pdftex.def)             Requested size: 437.06839pt x 233.1037pt.
-[15] [16 <./Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen-eps-conve
-rted-to.pdf> <./Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen-eps-conver
-ted-to.pdf> <./Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen-eps-con
-verted-to.pdf>] [17 <./Figures/ex3.5_1D_dw2_high_g_comparison-eps-converted-to.
-pdf> <./Figures/ex3.5_1D_dw1_as6_high_g_comparison-eps-converted-to.pdf> <./Fig
-ures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen-eps-converted
--to.pdf>]
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1000_quasicrystal_V0
-1.0_d2.0_omega0.1.eps>
-(epstopdf)                    date: 2026-03-19 10:54:35
-(epstopdf)                    size: 1893913 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1000_quasicrystal_V0
-1.0_d2.0_omega0.1-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-19 10:56:16
-(epstopdf)                    size: 97093 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1000
-_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.pdf Figures/ex3_2D_N32L3_g10
-00_quasicrystal_V01.0_d2.0_omega0.1.eps>
-(epstopdf)             \includegraphics on input line 1035.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.p
-df, id=1282, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1-eps-converted
--to.pdf Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-
-to.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15] [16 <./Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png> <./F
+igures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png> <./Figures/ex3.5_N16L3
+_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png>] [17 <./Figures/ex3.5_1D_dw2_high_g_
+comparison.png> <./Figures/ex3.5_1D_dw1_as6_high_g_comparison.png> <./Figures/e
+x3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 983.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 987.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 988.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1002
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1012
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1016
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1024
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1028
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1031
+.
+
+<Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png, id=218, 867.2
+4pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png Graphic f
+ile (type png)
+<use Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_ome
-ga0.1-eps-converted-to.pdf  used on input line 1035.
+ga0.1.png  used on input line 1037.
 (pdftex.def)             Requested size: 437.06839pt x 182.11365pt.
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g106.6_quasicrystal_V
-01.0_d2.0_omega0.1.eps>
-(epstopdf)                    date: 2026-03-19 10:54:36
-(epstopdf)                    size: 1896959 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g106.6_quasicrystal_V
-01.0_d2.0_omega0.1-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-19 11:20:01
-(epstopdf)                    size: 94395 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g106.
-6_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.pdf Figures/ex3_2D_N32L3_g1
-06.6_quasicrystal_V01.0_d2.0_omega0.1.eps>
-(epstopdf)             \includegraphics on input line 1049.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.
-pdf, id=1283, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1-eps-converte
-d-to.pdf Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1-eps-converted
--to.pdf>
+
+Package hyperref Warning: Suppressing link with empty target on input line 1042
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1042
+.
+
+<Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png, id=219, 867.
+24pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png Graphic 
+file (type png)
+<use Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_om
-ega0.1-eps-converted-to.pdf  used on input line 1049.
+ega0.1.png  used on input line 1051.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g10.5_quasicrystal_V0
-1.0_d2.0_omega0.1.eps>
-(epstopdf)                    date: 2026-03-19 10:54:37
-(epstopdf)                    size: 1892454 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g10.5_quasicrystal_V0
-1.0_d2.0_omega0.1-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-19 11:23:32
-(epstopdf)                    size: 81949 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g10.5
-_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.pdf Figures/ex3_2D_N32L3_g10
-.5_quasicrystal_V01.0_d2.0_omega0.1.eps>
-(epstopdf)             \includegraphics on input line 1054.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-to.p
-df, id=1285, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1-eps-converted
--to.pdf Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1-eps-converted-
-to.pdf>
+<Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png, id=221, 867.2
+4pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png Graphic f
+ile (type png)
+<use Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_ome
-ga0.1-eps-converted-to.pdf  used on input line 1054.
+ga0.1.png  used on input line 1056.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0
-_d2.0_omega0.1_more_points.eps>
-(epstopdf)                    date: 2026-03-19 11:27:18
-(epstopdf)                    size: 1892012 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0
-_d2.0_omega0.1_more_points-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-19 11:28:53
-(epstopdf)                    size: 74342 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_qu
-asicrystal_V01.0_d2.0_omega0.1_more_points-eps-converted-to.pdf Figures/ex3_2D_
-N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.eps>
-(epstopdf)             \includegraphics on input line 1069.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points-eps-conve
-rted-to.pdf, id=1287, 867.24pt x 361.35pt>
-File: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points-eps-
-converted-to.pdf Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points-eps-c
-onverted-to.pdf>
+<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png, id=2
+23, 867.24pt x 361.35pt>
+File: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png 
+Graphic file (type png)
+<use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0
-.1_more_points-eps-converted-to.pdf  used on input line 1069.
+.1_more_points.png  used on input line 1071.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
-Package epstopdf Info: Source file: <Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0
-_d2.0_omega0.1_more_points_zoom.eps>
-(epstopdf)                    date: 2026-03-20 00:15:30
-(epstopdf)                    size: 1883068 bytes
-(epstopdf)             Output file: <Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0
-_d2.0_omega0.1_more_points_zoom-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-20 00:15:42
-(epstopdf)                    size: 80978 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/ex3_2D_N32L3_g1_qu
-asicrystal_V01.0_d2.0_omega0.1_more_points_zoom-eps-converted-to.pdf Figures/ex
-3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.eps>
-(epstopdf)             \includegraphics on input line 1074.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom-eps-
-converted-to.pdf, id=1289, 867.24pt x 361.35pt>
+<Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.png,
+ id=225, 867.24pt x 361.35pt>
 File: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom
--eps-converted-to.pdf Graphic file (type pdf)
-<use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom-
-eps-converted-to.pdf>
+.png Graphic file (type png)
+<use Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.
+png>
 Package pdftex.def Info: Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0
-.1_more_points_zoom-eps-converted-to.pdf  used on input line 1074.
+.1_more_points_zoom.png  used on input line 1076.
 (pdftex.def)             Requested size: 209.79095pt x 169.7593pt.
-[18 <./Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1-eps-converte
-d-to.pdf>] [19 <./Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1-
-eps-converted-to.pdf> <./Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_ome
-ga0.1-eps-converted-to.pdf> <./Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_
-omega0.1_more_points-eps-converted-to.pdf> <./Figures/ex3_2D_N32L3_g1_quasicrys
-tal_V01.0_d2.0_omega0.1_more_points_zoom-eps-converted-to.pdf>] (./main.aux)
+[18 <./Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png>] [19 <.
+/Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png> <./Figures/e
+x3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png> <./Figures/ex3_2D_N32L3
+_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png> <./Figures/ex3_2D_N32L3_g
+1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.png>] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  79E156D7002C1C20819D5BA6A408AAB7;1760.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36635 strings out of 476034
- 800708 string characters out of 5792864
- 1878388 words of memory out of 6000000
- 56534 multiletter control sequences out of 15000+600000
+ 42741 strings out of 476034
+ 892382 string characters out of 5792864
+ 1879388 words of memory out of 6000000
+ 62470 multiletter control sequences out of 15000+600000
  522086 words of font info for 69 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 89i,19n,120p,1127b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,19n,120p,1127b,1772s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -2024,10 +2065,10 @@ s/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (20 pages, 26409007 bytes).
+Output written on main.pdf (20 pages, 9003103 bytes).
 PDF statistics:
- 1653 PDF objects out of 1728 (max. 8388607)
- 369 compressed objects within 4 object streams
- 0 named destinations out of 1000 (max. 500000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 99 named destinations out of 1000 (max. 500000)
  192 words of extra memory for PDF output out of 10000 (max. 10000000)
 

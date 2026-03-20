@@ -36,6 +36,8 @@ The number of layers and neurons is chosen based on the complexity of the
 problem, but it varies between 2--4 layers and 4--32 neurons per layer. 
 Hyperbolic tangent activation functions are used for all the problems.
 
+The code is available in the GitHub repository \url{https://github.com/F-Depi/PINN-GPE}
+
 
 
 
@@ -126,7 +128,7 @@ of 0.001 the agreement can be considered good.
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.eps}
+    {Figures/ex1_N4L1_PINN_Na1.0_x0.00-6.00.png}
     \caption{Results for the 1D GPE with $Na = 1$ using a NN with 1 hidden 
     layer and 4 neurons per layer (N4L1).
     The final loss was $2.66 \times 10^{-5}$, the relative
@@ -139,7 +141,7 @@ of 0.001 the agreement can be considered good.
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.eps}
+    {Figures/ex1_N4L1_PINN_Na10.0_x0.00-6.00.png}
     \caption{Results for the 1D GPE with $Na = 10$ using a NN with N4L1.
     The final loss was $9.46 \times 10^{-7}$, the relative
     $\mathbb L_2$ error is $9.55 \times 10^{-5}$ computed with respect to
@@ -253,7 +255,7 @@ $\mathbb L_2$ error of $8.99 \times 10^{-5}$
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.eps}
+    \includegraphics[width=\textwidth]{Figures/ex1_N8L2_PINN_Na100.0_x0.00-8.00.png}
     \caption{Results for the 1D GPE with $Na = 100$ using a NN with N8L2.
     The relative $\mathbb L_2$ is $8.99 \times 10^{-5}$ computed with respect to 
     the data obtained from the previous reports with the \texttt{variational} 
@@ -317,7 +319,7 @@ N32L3, with a loss of $1.86 \times 10^{-5}$.
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.eps}
+    \includegraphics[width=\textwidth]{Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_heatmap.png}
     \caption{Results for the time-dependent GPE with a NN with N32L3.
     The relative $\mathbb L_2$ is $5.26 \times 10^{-3}$ computed with respect to
     the analytical solution. \texttt{L-BFGS} optimizer was stopped after 100
@@ -341,7 +343,7 @@ highly nonlinear regions of the domain.
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.eps}
+    \includegraphics[width=\textwidth]{Figures/ex2_N32L3_PINN_E1900_t0.00-1.57_x-5.00-5.00_lbfgs_slice.png}
     \caption{Slices of the results for the time-dependent GPE with N32L3.
     We can appreciate the NN ability to capture the solution even in the highly 
     nonlinear regions of the domain.}
@@ -386,7 +388,7 @@ The results are shown in Figures \ref{fig:ex3_dw1_easy} and
 \begin{figure}[h]
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_g1_dw1.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_g1_dw1.png}
     \caption{Results for the 1D GPE with the symmetric double well potential 
     from equation \eqref{eq:dw} with $a = 1$ and $g = 1$ using a NN with N4L2.}
     \label{fig:ex3_dw1_easy}
@@ -394,7 +396,7 @@ The results are shown in Figures \ref{fig:ex3_dw1_easy} and
 \hspace{0.05\textwidth}
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_g1_dw2.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_g1_dw2.png}
     \caption{Results for the 1D GPE with the symmetric double well potential
     from equation \eqref{eq:dw} with $a = 2$ and $g = 1$ using a NN with N4L2.}
     \label{fig:ex3_dw2_oops}
@@ -427,7 +429,7 @@ points) and is shown in Figure \ref{fig:ex3_dw2_shit}.
 \begin{figure}[h]
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N4L2_pos_g1_dw2_gauss.png}
     \caption{Another failed attempt at finding the ground state of the system
     under the potential in equation \eqref{eq:dw}, this time we also tried to
     enforce positivity and used a gaussian initialization. 
@@ -437,7 +439,7 @@ points) and is shown in Figure \ref{fig:ex3_dw2_shit}.
 \hspace{0.05\textwidth}
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g100_dw2_gauss.png}
     \caption{Increasing the strength of the interaction forces the wave function
     to expand over both the wells. 
     This time we are confident that we found the ground state given the symmetry
@@ -464,7 +466,7 @@ In this case we also find beneficial to increase the number of sample points to
 \begin{figure}[h!]
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g1_dw2_high_g.png}
     \caption{Starting from the NN trained at $g = 100$ in Figure
     \ref{fig:ex3_dw2_yee_g100} and optimizing it for $g = 1$ we can find the 
     ground state solution for the double well potential with $a = 2$.}
@@ -473,7 +475,7 @@ In this case we also find beneficial to increase the number of sample points to
 \hspace{0.05\textwidth}
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_1D_N16L2_pos_g1_dw1_as6_high_g.png}
     \caption{N16L2 positive NN trained for $g = 100$ and then retrained for
     $g = 1$ with the non-symmetric double well potential from equation 
     \eqref{eq:dw_as} with $a = 1$ and $b = 6$. 
@@ -528,7 +530,7 @@ $g = 1$ the optimizer converges without difficulty, and the results are shown
 in Figure \ref{fig:ex3_2D_N32L3_g1_harmonic}.
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_2D_N32L3_g1_harmonic.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_2D_N32L3_g1_harmonic.png}
     \caption{Results for the 2D GPE with a harmonic potential and $g = 1$ using a NN
     with N32L3. Gaussian initialization was used to help the optimizer.}
     \label{fig:ex3_2D_N32L3_g1_harmonic}
@@ -558,7 +560,7 @@ while still showing a significant density in the higher well as well.
 \begin{figure}[h!!!]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.eps}
+    {Figures/ex3_2D_N32L3_g40_dw2_as6_gauss.png}
     \caption{2D GPE with the asymmetric double well potential from equation
     \eqref{eq:dw_as_2d} and $g = 40$, using a NN with N32L3. At high interaction
     strength the wave function easily spreads over both wells.}
@@ -567,7 +569,7 @@ while still showing a significant density in the higher well as well.
 \begin{figure}[h!!!]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.eps}
+    {Figures/ex3_2D_N32L3_g1_dw2_as6_high_g.png}
     \caption{The NN of Figure \ref{fig:ex3_2D_N32L3_g40_dw2_as6_gauss} retrained
     for $g = 1$.
     The wave function is now more localized in the lower well of the asymmetric
@@ -615,7 +617,7 @@ optimization challenging.
 \begin{figure}[h!]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.eps}
+    {Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps0.4_n5_high_g.png}
     \caption{Stationary solution of the 2D GPE with the potential
     \eqref{eq:weird_potential} at $\mathcal E=0.4$ and $g=1$, obtained with a
     N32L3 PINN. 
@@ -631,7 +633,7 @@ optimization challenging.
 \begin{figure}[h!]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.eps}
+    {Figures/ex3_2D_N32L3_g1_crazy_a2.0_eps10.0_n5_var.png}
     \caption{Same as Figure~\ref{fig:ex3_2D_N32L3_g1_crazy_eps0.4}, but with a
     much stronger angular corrugation, $\mathcal E = 10$ meaning that the
     angular barriers are $\Delta V \simeq 20$ high.
@@ -669,7 +671,7 @@ An even more challenging potential with more wells is shown in Appendix
 \section{Vortex Solutions} \label{sec:vortex}
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.eps}
+    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na1.0_x-5.00_-5.00-5.00_5.00_l1_full.png}
     \caption{Vortex solution of the 2D GPE with $g = 1$ and winding number $m = 1$,
     obtained with a NN with N32L4.}
     \label{fig:vortex_l1}
@@ -758,14 +760,14 @@ So we could find a solution with a higher winding number $m = 6$ without
 enlarging the domain, as shown in Figure \ref{fig:vortex_l6}.
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.eps}
+    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na1.0_x-7.00_-7.00-7.00_7.00_l3.png}
     \caption{Vortex solution of the 2D GPE with $g = 1$ and winding number 
     $m = 3$, the vortex is bigger than the one with $m = 1$.}
     \label{fig:vortex_l3}
 \end{figure}
 \begin{figure}[h!!!]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.eps}
+    \includegraphics[width=\textwidth]{Figures/ex4_N32L4_PINN_Na10.0_x-5.00_-5.00-5.00_5.00_l6_full.png}
     \caption{Vortex solution of the 2D GPE with $g = 10$. When the interaction
     is stronger the vortex is smaller, allowing to find a solution with a 
     higher winding number $m = 6$ in a small domain.}
@@ -907,7 +909,7 @@ interacting problem.
 
 \begin{figure}[]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na0.0_x-8.00-8.00_harmonic_eigen.png}
     \caption{1D GPE with $g = 0$ and a harmonic potential.
     The same NN correctly learns 6 eigenstates (that in this case are known
     analytically) but misses the 5th one.}
@@ -915,14 +917,14 @@ interacting problem.
 \end{figure}
 \begin{figure}[]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw2_eigen.png}
     \caption{Results for the 1D GPE with $g = 1$ and a symmetric double well
     potential from equation \eqref{eq:dw} with $a = 2$ using a NN with N16L3.}
     \label{fig:ex3.5_dw2_eigen}
 \end{figure}
 \begin{figure}[]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3.5_N16L3_PINN_Na1.0_x-3.50-3.50_dw1_as6_eigen.png}
     \caption{Results for the 1D GPE with $g = 1$ and a non-symmetric double well
     potential from equation \eqref{eq:dw_as} with $a = 1$ and $b = 6$ using a NN 
     with N16L3.}
@@ -933,7 +935,7 @@ interacting problem.
 \begin{figure}[h!]
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3.5_1D_dw2_high_g_comparison.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3.5_1D_dw2_high_g_comparison.png}
     \caption{Comparison of the results obtained for the double well potential
     with $a = 2$ and $g = 1$ with the method of section \ref{sec:1d_double_well}
     (solid blue line) and the method of Appendix \ref{app:eigenvalue}
@@ -943,7 +945,7 @@ interacting problem.
 \hspace{0.05\textwidth}
 \begin{minipage}{0.48\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3.5_1D_dw1_as6_high_g_comparison.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3.5_1D_dw1_as6_high_g_comparison.png}
     \caption{Comparison of the results obtained for the non-symmetric double well
     potential with $a = 1$, $b = 6$ and $g = 1$ with the method of section
     \ref{sec:1d_double_well} (solid blue line) and the method of Appendix
@@ -959,7 +961,7 @@ as shown in Figure \ref{fig:ex3.5_2D_harmonic_eigen}.
 \begin{figure}[h!!!]
     \centering
     \includegraphics[width=\textwidth]
-    {Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.eps}
+    {Figures/ex3.5_N32L4_PINN_Na0.0_x-5.00_-5.00-5.00_5.00_harmonic_eigen.png}
     \caption{Five eigenstates of the 2D GPE with $g = 1$ and a harmonic
     potential, computed with a N32L4 NN.
     The ground state ($n = 3$) and two pairs of degenerate excited states are
@@ -1032,7 +1034,7 @@ wave function is very small in that region.
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=\textwidth]{Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.eps}
+    \includegraphics[width=\textwidth]{Figures/ex3_2D_N32L3_g1000_quasicrystal_V01.0_d2.0_omega0.1.png}
     \caption{External potential $V_{\rm ext}(x,y)$ defined in
     \eqref{eq:spread_out_potential} (left) and corresponding ground-state
     solution $\psi(x,y)$ (right) obtained with an N32L3 network for
@@ -1046,12 +1048,12 @@ wave function is very small in that region.
     \begin{minipage}{0.48\textwidth}
         \centering
         \includegraphics[trim=450 0 0 25, clip, width=\textwidth]
-        {Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.eps}
+        {Figures/ex3_2D_N32L3_g106.6_quasicrystal_V01.0_d2.0_omega0.1.png}
     \end{minipage}
     \begin{minipage}{0.48\textwidth}
         \centering
         \includegraphics[trim=450 0 0 25, clip, width=\textwidth]
-        {Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.eps}
+        {Figures/ex3_2D_N32L3_g10.5_quasicrystal_V01.0_d2.0_omega0.1.png}
     \end{minipage}
     \caption{Ground-state solutions $\psi(x,y)$ obtained during the
     continuation procedure as $g$ is reduced.
@@ -1066,12 +1068,12 @@ wave function is very small in that region.
     \begin{minipage}{0.48\textwidth}
         \centering
         \includegraphics[trim=450 0 0 25, clip, width=\textwidth]
-        {Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.eps}
+        {Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points.png}
     \end{minipage}
     \begin{minipage}{0.48\textwidth}
         \centering
         \includegraphics[trim=450 0 0 25, clip, width=\textwidth]
-        {Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.eps}
+        {Figures/ex3_2D_N32L3_g1_quasicrystal_V01.0_d2.0_omega0.1_more_points_zoom.png}
     \end{minipage}
     \caption{Ground-state solution for $g=1$ computed with additional
     sampling points to improve resolution.
