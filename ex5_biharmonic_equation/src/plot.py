@@ -87,7 +87,7 @@ def plot_GPE_2D(NpL, layers, x_l, x_r, Na, comment="", positive=True, save=False
 
 
 
-save = False
+save = True
 
 plot_GPE_2D(NpL=16, layers=2, x_l=[-1, -1], x_r=[1, 1], Na=0, comment="", save=save)
 
