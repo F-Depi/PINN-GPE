@@ -41,7 +41,7 @@ in reproducing a result from the _Raissi, M., P. Perdikaris, and G.E. Karniadaki
 
 ## Requirements
 
-The code is written in ```python3.13.12``` and uses common scientific/ML packages. 
+The code is written in ```python3.12``` and uses common scientific/ML packages. 
 From the code, the main dependencies are:
 
 - `pytorch`
@@ -75,7 +75,7 @@ There are also plotting/benchmark utilities (e.g., `plot.py`, `gradgrad_vs_hessi
 ### `ex1_GPE_simple`
 ```bash
 cd ex2_GPE_time_dependent
-python plot.py
+../venv/bin/python src/plot.py
 ```
 
 Many scripts save artifacts such as:
