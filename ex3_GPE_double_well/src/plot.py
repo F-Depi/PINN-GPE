@@ -278,5 +278,9 @@ save = False
 #plot_GPE_2D(NpL=32, layers=3, x_l=[-6, -6], x_r=[6, 6], Na=10.5, comment="_quasicrystal_V01.0_d2.0_omega0.1", save=save)
 #plot_GPE_2D(NpL=32, layers=3, x_l=[-6, -6], x_r=[6, 6], Na=5, comment="_quasicrystal_V01.0_d2.0_omega0.1", save=save)
 #plot_GPE_2D(NpL=32, layers=3, x_l=[-6, -6], x_r=[6, 6], Na=1, comment="_quasicrystal_V01.0_d2.0_omega0.1", save=save)
-plot_GPE_2D(NpL=32, layers=3, x_l=[-6, -6], x_r=[6, 6], Na=1, comment="_quasicrystal_V01.0_d2.0_omega0.1_more_points", save=save)
+#plot_GPE_2D(NpL=32, layers=3, x_l=[-6, -6], x_r=[6, 6], Na=1, comment="_quasicrystal_V01.0_d2.0_omega0.1_more_points", save=save)
 
+
+""" 2D optical lattice from https://arxiv.org/pdf/2512.11339 """
+#plot_GPE_2D(NpL=32, layers=3, x_l=[-8,-8], x_r=[8,8], Na=250, comment="_optical_lattice_2d")
+plot_GPE_2D(NpL=32, layers=3, x_l=[-8,-8], x_r=[8,8], Na=1000, comment="_optical_lattice_2d_slow-run1")

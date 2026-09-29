@@ -345,54 +345,54 @@ x[:,0:1]**4 + (x[:,1:2]**2 - 2.0)**2 + x[:,0:1] * x[:,1:2] + x[:,0:1]/4 dw2_as4
             Quasicrystal potential in 2D
             V(x,y) = V0 * sum_{k=0}^{4} cos(q_k . r) + 0.5 * omega^2 * (x^2 + y^2)
 """
-r = 6.0
-N_b = 0
-V0 = 1.0
-omega = 0.1
-d = 2.0
-
-def quasicrystal(x):
-    V = 0.5 * omega * (x[:,0:1]**2 + x[:,1:2]**2)
-    for k in range(5):
-        angle = 2 * np.pi * k / 5
-        qx = 2 * np.pi / d * np.cos(angle)
-        qy = 2 * np.pi / d * np.sin(angle)
-        V = V + V0 * np.cos(qx * x[:,0:1] + qy * x[:,1:2])
-    return V
-
-x_l = [-r, -r];     x_r = [r, r]
-domain = DomainConfig(
-        V_ext = quasicrystal,
-        Na = 1.0,
-
-        input_dim=2,
-        x_l=x_l,
-        x_r=x_r,
-        N_points=40_000,
-        BC_grid=np.array([]),
-        BC_h=np.array([]),
-        norm_weight=1.0,
-    )
-
-model_config = ModelConfig(
-        neurons_per_layer=32,
-        layers=3,
-        positive=True,
-        gaussian_init=False,
-        gaussian_sigma=1,
-    )
-
-train_config = TrainConfig(
-        optimizer="adam+lbfgs",
-        adam_epochs=5000,
-        comment=f"_quasicrystal_V0{V0:.1f}_d{d:.1f}_omega{omega:.1f}_more_points",
-        save_every=10,
-    )
-
-load_model = f"models/2D_N32_L3_pos/PINN_Na1.0_x-6.00_-6.00-6.00_6.00_quasicrystal_V01.0_d2.0_omega0.1.pth"
-mu = json.load(open(load_model.replace(".pth", "_param.json"), "r"))["mu"]
-solver = GPESolver(domain, model_config, train_config, load_model, mu)
-solver.train()
+#r = 6.0
+#N_b = 0
+#V0 = 1.0
+#omega = 0.1
+#d = 2.0
+#
+#def quasicrystal(x):
+#    V = 0.5 * omega * (x[:,0:1]**2 + x[:,1:2]**2)
+#    for k in range(5):
+#        angle = 2 * np.pi * k / 5
+#        qx = 2 * np.pi / d * np.cos(angle)
+#        qy = 2 * np.pi / d * np.sin(angle)
+#        V = V + V0 * np.cos(qx * x[:,0:1] + qy * x[:,1:2])
+#    return V
+#
+#x_l = [-r, -r];     x_r = [r, r]
+#domain = DomainConfig(
+#        V_ext = quasicrystal,
+#        Na = 1.0,
+#
+#        input_dim=2,
+#        x_l=x_l,
+#        x_r=x_r,
+#        N_points=40_000,
+#        BC_grid=np.array([]),
+#        BC_h=np.array([]),
+#        norm_weight=1.0,
+#    )
+#
+#model_config = ModelConfig(
+#        neurons_per_layer=32,
+#        layers=3,
+#        positive=True,
+#        gaussian_init=False,
+#        gaussian_sigma=1,
+#    )
+#
+#train_config = TrainConfig(
+#        optimizer="adam+lbfgs",
+#        adam_epochs=5000,
+#        comment=f"_quasicrystal_V0{V0:.1f}_d{d:.1f}_omega{omega:.1f}_more_points",
+#        save_every=10,
+#    )
+#
+#load_model = f"models/2D_N32_L3_pos/PINN_Na1.0_x-6.00_-6.00-6.00_6.00_quasicrystal_V01.0_d2.0_omega0.1.pth"
+#mu = json.load(open(load_model.replace(".pth", "_param.json"), "r"))["mu"]
+#solver = GPESolver(domain, model_config, train_config, load_model, mu)
+#solver.train()
 #
 ## Lower Na by 10% iteratively up to 1
 #model_config.gaussian_init = False
@@ -415,3 +415,46 @@ solver.train()
 #    if Na < 1.0:
 #        print(f"\n=== Reached Na={Na:.1f} with loss={loss:.3e} ===")
 #        break
+
+
+"""
+            2D optical lattice with anisotropic harmonic confinement
+                (from https://arxiv.org/pdf/2512.11339 page 16)
+    V(x,y) = 1/4 (x^2 + 4 y^2) + 5 (sin^2(pi x) + sin^2(pi y)),  D = [-8, 8]^2
+"""
+r = 8.0
+N_b = 100
+x_l = [-r, -r];     x_r = [r, r]
+BD_grid, BD_h = make_bc_grid_2d(x_l, x_r, n=N_b)
+
+domain = DomainConfig(
+        V_ext = lambda x: (
+            0.25 * (x[:, 0:1]**2 + 4.0 * x[:, 1:2]**2)
+            + 5.0 * (np.sin(np.pi * x[:, 0:1])**2
+                     + np.sin(np.pi * x[:, 1:2])**2)
+        ),
+        Na = 1000,
+
+        input_dim=2,
+        x_l=x_l,
+        x_r=x_r,
+        N_points=20_000,   # 16 lattice periods per axis, so sample more densely than before
+        BC_grid=BD_grid,
+        BC_h=BD_h,
+        norm_weight=1.0,
+    )
+
+model_config = ModelConfig(
+        neurons_per_layer=32,
+        layers=3,
+        positive=True,
+        gaussian_init=True,
+        gaussian_sigma=1,
+    )
+
+train_config = TrainConfig(
+        optimizer="lbfgs",
+        comment="_optical_lattice_2d_slow"
+    )
+
+multiple_runs(domain, model_config, train_config, N_runs=1)
