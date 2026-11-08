@@ -1,6 +1,5 @@
 import torch
-import torch.nn as nn
-import matplotlib.pyplot as plt
+from torch import nn
 
 """
 we start by trying to solve

@@ -37,23 +37,11 @@ in reproducing a result from the _Raissi, M., P. Perdikaris, and G.E. Karniadaki
 - `report/` 
   latex source and compiled PDF of the final report summarizing the work, results, and conclusions.
 
----
-
 ## Requirements
 
-The code is written in ```python3.12``` and uses common scientific/ML packages. 
-From the code, the main dependencies are:
-
-- `pytorch`
-- `numpy`
-- `scipy`
-- `matplotlib`
-
-An AMD RX 6750 XT GPU was used for development, but the code should run on any
-CUDA/ROCm-compatible GPU or even CPU (with slower performance) selecting
-the device automatically.
-
----
+The code is written in ```python3.14``` and uses common scientific/ML packages. 
+```requirements.txt``` contains the dependencies and the torch version specific
+to rocm6.4, as an AMD RX 6750 XT GPU was used for development.
 
 ## How to run
 
